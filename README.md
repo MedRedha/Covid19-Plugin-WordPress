@@ -1,20 +1,12 @@
-<h1 align="center">CoronApp</h1>
+<h1 align="center">COVID-19 Coronavirus - Live Map WordPress Plugin</h1>
+
+<img width="914" height="374" src="https://www.laccd.edu/About/News/PublishingImages/covid-19-image.png" alt="coronapp">
 
 <p align="center">
 	<a href="https://wuud.net">
-		<img width="160" height="169" src="https://github.com/TeamWuuD/WuuD-Website/blob/master/favicon.ico?raw=true" alt="wuud">
-	<img width="160" height="160" src="https://i.ya-webdesign.com/images/virus-transparent-animated-gif.gif" alt="coronapp">
-	</a>
-</p>
-<p align="center">
-	<a href="https://wuud.net">
-		<img alt="Docker Automated build" src="https://img.shields.io/docker/automated/medredha/coronapp?color=brown&label=Build">
-		<img alt="Docker Cloud Build Status" src="https://img.shields.io/docker/cloud/build/medredha/coronapp?color=yellow&label=Docker%20Build&logo=Redha">
-	</a>
-	<a href="https://wuud.net">
 		<img alt="NPM" src="https://img.shields.io/npm/l/react?color=black">
-		<img alt="GitHub package.json version" src="https://img.shields.io/github/package-json/v/MedRedha/CoronApp?color=red&label=Version">
-		<img alt="GitHub package.json dependency version" src="https://img.shields.io/github/package-json/dependency-version/MedRedha/CoronApp/react">
+		<img alt="GitHub package.json 
+			  " src="https://img.shields.io/badge/Release-2.1.4-orange">
 		<img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/MedRedha/CoronApp?color=purple">
 		<img alt="Website" src="https://img.shields.io/website?down_color=red&down_message=maintenance&style=flat-square&up_message=online&url=https%3A%2F%2Fwuud.net"> <img alt="GitHub stars" src="https://img.shields.io/github/stars/TeamWuuD/WuuD-Website?style=social">
 	</a>
@@ -23,61 +15,25 @@
 <br>
 <br>
 
-### <h1 align="center"> Global dashboard for monitoring Corona virus (COVID-19)</h1>
+<p align="center">
+    Powered by WuuD Team®
+</p>
 
 <p align="center">
-    Powered by StickyBoard & Docker
+	<a href="https://wuud.net">
+		<img width="160" height="169" src="https://github.com/TeamWuuD/WuuD-Website/blob/master/favicon.ico?raw=true" alt="wuud">
+	</a>
 </p>
 
-<p align="center" style="justify-content: space-between">
-        	<img width="130" height="150" src="https://github.com/soaple/stickyboard/blob/master/src/static/image/StickyBoard_logo.png?raw=true" alt="stickyboard">
-		<img width="160" height="150" src="https://logo-logos.com/wp-content/uploads/2016/10/Docker_logo.png" alt="docker">
-</p>
+## Description
 
-## Build & Run
+The plugin allows adding statistics table/widgets via shortcode to inform site visitors about changes in the situation about Coronavirus pandemic.
 
-#### Prerequisite
+## Installation
 
-```bsh
-$ npm install -g nodemon
-$ npm install
-```
-
-### Dockerize
-
-##### Build docker image
-
-Enable [Docker Buildkit](https://docs.docker.com/develop/develop-images/build_enhancements/#to-enable-buildkit-builds) to speed up build
-
-```bsh
-$ DOCKER_BUILDKIT=1 docker build -t <dockerhub_username>/<dockerhub_repo_name>:latest .
-```
-
-##### Run
-
-```bsh
-$ docker run -p 3000:3000 <dockerhub_username>/<dockerhub_repo_name>:latest
-```
-
-##### Push docker image to DockerHub
-
-```bsh
-$ docker push <dockerhub_username>/<dockerhub_repo_name>:latest
-```
-
-#### Development Mode
-
-```bsh
-$ npm run watch
-$ npm run dev
-```
-
-#### Production Mode
-
-```bsh
-$ npm run build
-$ npm run production
-```
+1. `git clone https://github.com/MedRedha/Covid19-Plugin-WordPress && cd Covid19-Plugin-WordPress`
+2. Then simply upload the files in the "Plugins > Add New" section. Click on the "Upload Plugin" tab at the top and choose to upload the zip file.
+3. Once it uploads, choose to activate the plugin.
 
 ## Dev Team
 
@@ -136,13 +92,7 @@ $ npm run production
 </tbody>
 </table>
 
-## Attribution
-
--   Global Corona Dashboard powered by [StickyBoard](https://github.com/soaple/stickyboard/)
--   API deployed and operated by [Ainize](https://ainize.ai/laeyoung/wuhan-coronavirus-api)
--   Data provided by [JHU CSSE](https://github.com/CSSEGISandData/COVID-19)
-
-## Contributing to CoronApp
+## Contributing to the project
 
 Contributing to CoronApp is a piece of :cake:, read the [contributing guidelines](https://github.com/MedRedha/CoronApp/blob/master/.github/CONTRIBUTING.md). You can discuss CoronApp using the [issues section](https://github.com/MedRedha/CoronApp/issues/new). To add a line create an issue and send a pull request, see [how to send a pull request](https://github.com/MedRedha/CoronApp/blob/master/.github/CONTRIBUTING.md).
 
@@ -150,4 +100,4 @@ Contributing to CoronApp is a piece of :cake:, read the [contributing guidelines
 
 The code is available under the [MIT](https://github.com/MedRedha/CoronApp/blob/master/LICENSE) license.
 
-###### [WuuD®](http://wuud.net/) - In code we trust -
+<u align="center">[WuuD®](http://wuud.net/) - In code we trust -</u>
