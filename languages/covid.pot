@@ -1,0 +1,247 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: COVID-19 Live Statistics\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2020-04-02 17:27+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: \n"
+"Language: \n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Loco-Version: 2.3.1; wp-5.3.2"
+
+#: covid19-plugin-wp.php:49 covid19-plugin-wp.php:50
+msgid "Covid-19 Options"
+msgstr ""
+
+#: covid19-plugin-wp.php:91
+msgid "10 min"
+msgstr ""
+
+#: covid19-plugin-wp.php:171
+msgid "World"
+msgstr ""
+
+#: covid19-plugin-wp.php:173 covid19-plugin-wp.php:208 
+#: covid19-plugin-wp.php:255 covid19-plugin-wp.php:269 
+#: covid19-plugin-wp.php:282
+msgid "Cases"
+msgstr ""
+
+#: covid19-plugin-wp.php:174 covid19-plugin-wp.php:236
+msgid "New Cases"
+msgstr ""
+
+#: covid19-plugin-wp.php:175 covid19-plugin-wp.php:209 
+#: covid19-plugin-wp.php:256 covid19-plugin-wp.php:270 
+#: covid19-plugin-wp.php:283
+msgid "Deaths"
+msgstr ""
+
+#: covid19-plugin-wp.php:176 covid19-plugin-wp.php:210 
+#: covid19-plugin-wp.php:239 covid19-plugin-wp.php:257 
+#: covid19-plugin-wp.php:271 covid19-plugin-wp.php:284
+msgid "Recovered"
+msgstr ""
+
+#: covid19-plugin-wp.php:177
+msgid "Total"
+msgstr ""
+
+#: covid19-plugin-wp.php:211
+msgid "Today"
+msgstr ""
+
+#: covid19-plugin-wp.php:235
+msgid "Total Cases"
+msgstr ""
+
+#: covid19-plugin-wp.php:237
+msgid "Total Deaths"
+msgstr ""
+
+#: covid19-plugin-wp.php:238
+msgid "New Deaths"
+msgstr ""
+
+#: covid19-plugin-wp.php:240 covid19-plugin-wp.php:285
+msgid "Active"
+msgstr ""
+
+#: covid19-plugin-wp.php:241 covid19-plugin-wp.php:258
+msgid "Country"
+msgstr ""
+
+#: covid19-plugin-wp.php:254
+msgid "World Stat"
+msgstr ""
+
+#: covid19-plugin-wp.php:488
+msgid "COVID-19 Options"
+msgstr ""
+
+#. Description of the plugin
+#: covid19-plugin-wp.php:489
+msgid ""
+"The plugin allows adding statistics table/widgets via shortcode to inform "
+"site visitors about changes in the situation about Coronavirus pandemic."
+msgstr ""
+
+#: covid19-plugin-wp.php:509
+msgid "Widget Shortcode"
+msgstr ""
+
+#: covid19-plugin-wp.php:511
+msgid "Paste this shortcode into <b>Sidebar Text widget</b>."
+msgstr ""
+
+#: covid19-plugin-wp.php:513 covid19-plugin-wp.php:583
+msgid "Countries:"
+msgstr ""
+
+#: covid19-plugin-wp.php:517 covid19-plugin-wp.php:587
+msgid "All Countries - World Statistics"
+msgstr ""
+
+#: covid19-plugin-wp.php:525
+msgid ""
+"[COVID19-WIDGET title_widget=\"World\" confirmed_title=\"Confirmed\" "
+"deaths_title=\"Deaths\" recovered_title=\"Recovered\"]"
+msgstr ""
+
+#: covid19-plugin-wp.php:530
+msgid "Map of Countries"
+msgstr ""
+
+#: covid19-plugin-wp.php:532 covid19-plugin-wp.php:544 
+#: covid19-plugin-wp.php:557 covid19-plugin-wp.php:569
+msgid "Paste this shortcode into <b>Posts or Pages</b>."
+msgstr ""
+
+#: covid19-plugin-wp.php:535
+msgid ""
+"[COVID19 confirmed_title=\"Confirmed\" deaths_title=\"Deaths\" "
+"recovered_title=\"Recovered\"]"
+msgstr ""
+
+#: covid19-plugin-wp.php:542
+msgid "Map of the USA"
+msgstr ""
+
+#: covid19-plugin-wp.php:547
+msgid ""
+"[COVID19-MAPUS confirmed_title=\"Confirmed\" deaths_title=\"Deaths\" "
+"active_title=\"Active\"]"
+msgstr ""
+
+#: covid19-plugin-wp.php:555
+msgid "List of Countries"
+msgstr ""
+
+#: covid19-plugin-wp.php:560
+msgid ""
+"[COVID19-ROLL title_widget=\"Worldwide\" total_title=\"Total\" "
+"confirmed_title=\"Cases\" deaths_title=\"Deaths\" "
+"recovered_title=\"Recovered\"]"
+msgstr ""
+
+#: covid19-plugin-wp.php:567
+msgid "Table of Countries"
+msgstr ""
+
+#: covid19-plugin-wp.php:572
+msgid ""
+"[COVID19-SHEET country_title=\"Country\" confirmed_title=\"Cases\" "
+"today_cases=\"New Cases\" deaths_title=\"Deaths\" today_deaths=\"New "
+"Deaths\" recovered_title=\"Recovered\"]"
+msgstr ""
+
+#: covid19-plugin-wp.php:579
+msgid "Inline Text data"
+msgstr ""
+
+#: covid19-plugin-wp.php:581
+msgid "Paste this shortcode into <b>text</b>."
+msgstr ""
+
+#: covid19-plugin-wp.php:595
+msgid ""
+"[COVID19-LINE confirmed_title=\"confirmed\" deaths_title=\"deaths\" "
+"recovered_title=\"recovered\"]"
+msgstr ""
+
+#: covid19-plugin-wp.php:636
+msgid "Customization"
+msgstr ""
+
+#: covid19-plugin-wp.php:641
+msgid "An interactive web-based dashboard to track COVID-19 in real time."
+msgstr ""
+
+#: covid19-plugin-wp.php:645
+msgid "World Map Title"
+msgstr ""
+
+#: covid19-plugin-wp.php:650
+msgid ""
+"To identify new cases, we monitor various twitter feeds, online news "
+"services, and direct communication sent through the dashboard."
+msgstr ""
+
+#: covid19-plugin-wp.php:654
+msgid "World Map Subtitle"
+msgstr ""
+
+#: covid19-plugin-wp.php:673
+msgid "Enable"
+msgstr ""
+
+#: covid19-plugin-wp.php:676
+msgid "Right-to-Left support"
+msgstr ""
+
+#: covid19-plugin-wp.php:683
+msgid "Dark"
+msgstr ""
+
+#: covid19-plugin-wp.php:683
+msgid "Light"
+msgstr ""
+
+#: covid19-plugin-wp.php:686
+msgid "Theme"
+msgstr ""
+
+#: covid19-plugin-wp.php:695
+msgid "Font"
+msgstr ""
+
+#: covid19-plugin-wp.php:701
+msgid "Without &lt;style&gt; tags"
+msgstr ""
+
+#: covid19-plugin-wp.php:704
+msgid "Custom CSS"
+msgstr ""
+
+#. Name of the plugin
+msgid "COVID-19 Live Statistics"
+msgstr ""
+
+#. URI of the plugin
+#. Author URI of the plugin
+msgid "https://1.envato.market/nyc"
+msgstr ""
+
+#. Author of the plugin
+msgid "NYCreatis"
+msgstr ""
+
+#. Author URI of the plugin
+msgid "https://nycreatis.com/"
+msgstr ""
