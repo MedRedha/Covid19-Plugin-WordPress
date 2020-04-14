@@ -1,7 +1,6 @@
 <h1 align="center">COVID-19 Coronavirus - Live Map WordPress Plugin</h1>
 
 <img width="914" height="374" src="https://www.laccd.edu/About/News/PublishingImages/covid-19-image.png" alt="coronapp">
-
 <p align="center">
 	<a href="https://wuud.net">
 		<img alt="NPM" src="https://img.shields.io/npm/l/react?color=black">
@@ -12,13 +11,9 @@
 	</a>
 </p>
 
-<br>
-<br>
-
 <p align="center">
     Powered by WuuD Team®
 </p>
-
 <p align="center">
 	<a href="https://wuud.net">
 		<img width="160" height="169" src="https://github.com/TeamWuuD/WuuD-Website/blob/master/favicon.ico?raw=true" alt="wuud">
@@ -94,10 +89,10 @@ The plugin allows adding statistics table/widgets via shortcode to inform site v
 
 ## Contributing to the project
 
-Contributing to CoronApp is a piece of :cake:, read the [contributing guidelines](https://github.com/MedRedha/CoronApp/blob/master/.github/CONTRIBUTING.md). You can discuss CoronApp using the [issues section](https://github.com/MedRedha/CoronApp/issues/new). To add a line create an issue and send a pull request, see [how to send a pull request](https://github.com/MedRedha/CoronApp/blob/master/.github/CONTRIBUTING.md).
+Contributing to Covid-19 Plugin is a piece of :cake:, read the [contributing guidelines](https://github.com/MedRedha/CoronApp/blob/master/.github/CONTRIBUTING.md). You can discuss CoronApp using the [issues section](https://github.com/MedRedha/CoronApp/issues/new). To add a line create an issue and send a pull request, see [how to send a pull request](https://github.com/MedRedha/CoronApp/blob/master/.github/CONTRIBUTING.md).
 
 ## License
 
 The code is available under the [MIT](https://github.com/MedRedha/CoronApp/blob/master/LICENSE) license.
 
-<u align="center">[WuuD®](http://wuud.net/) - In code we trust -</u>
+#### [WuuD®](http://wuud.net/) - In code we trust -
