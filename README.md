@@ -16,7 +16,7 @@
 </p>
 <p align="center">
 	<a href="https://wuud.net">
-		<img width="120" height="120" src="https://github.com/TeamWuuD/WuuD-Website/blob/master/favicon.ico?raw=true" alt="wuud">
+		<img width="140" height="140" src="https://github.com/TeamWuuD/WuuD-Website/blob/master/favicon.ico?raw=true" alt="wuud">
 	</a>
 	<a href="https://wuud.net">
 		<img width="100" height="100" src="https://nycreatis.com/code/covid19/wp-content/uploads/2020/04/logo_min.png" alt="wuud">
@@ -29,22 +29,22 @@ The plugin allows adding statistics table/widgets via shortcode to inform site v
 
 <p align="center">
 	<a href="https://wuud.net">
-		<img width="180" height="180" src="https://camo.envatousercontent.com/b7996fe2a387b6c4ece2f6679b365bf471bfd44e/68747470733a2f2f6e79637265617469732e636f6d2f636f6e7461637468756e7465722f646174612f696d672f313538343635323230372e6a7067" alt="wuud">
+		<img width="200" height="200" src="https://camo.envatousercontent.com/b7996fe2a387b6c4ece2f6679b365bf471bfd44e/68747470733a2f2f6e79637265617469732e636f6d2f636f6e7461637468756e7465722f646174612f696d672f313538343635323230372e6a7067" alt="wuud">
 	</a>
 	<a href="https://wuud.net">
-		<img width="180" height="180" src="https://camo.envatousercontent.com/3fa8932ebc6f574b1b301bb4d05ffb1d741aca1e/68747470733a2f2f6e79637265617469732e636f6d2f636f6e7461637468756e7465722f646174612f696d672f6261722e6a70673f32" alt="wuud">
+		<img width="200" height="200" src="https://camo.envatousercontent.com/3fa8932ebc6f574b1b301bb4d05ffb1d741aca1e/68747470733a2f2f6e79637265617469732e636f6d2f636f6e7461637468756e7465722f646174612f696d672f6261722e6a70673f32" alt="wuud">
 	</a>
 	<a href="https://wuud.net">
-		<img width="180" height="180" src="https://camo.envatousercontent.com/321c86ca9a2caec16eb1b5c123552cd9534c4f53/68747470733a2f2f6e79637265617469732e636f6d2f636f6e7461637468756e7465722f646174612f696d672f736462725f7769646765742e6a7067" alt="wuud">
+		<img width="200" height="200" src="https://camo.envatousercontent.com/321c86ca9a2caec16eb1b5c123552cd9534c4f53/68747470733a2f2f6e79637265617469732e636f6d2f636f6e7461637468756e7465722f646174612f696d672f736462725f7769646765742e6a7067" alt="wuud">
 	</a>
 	<a href="https://wuud.net">
-		<img width="180" height="180" src="https://camo.envatousercontent.com/8bf8b20de34f606bac3db21d17b3c3312b6224de/68747470733a2f2f6e79637265617469732e636f6d2f636f6e7461637468756e7465722f646174612f696d672f5461626c655f6f665f436f756e74726965732e6a70673f35" alt="wuud">
+		<img width="200" height="200" src="https://camo.envatousercontent.com/8bf8b20de34f606bac3db21d17b3c3312b6224de/68747470733a2f2f6e79637265617469732e636f6d2f636f6e7461637468756e7465722f646174612f696d672f5461626c655f6f665f436f756e74726965732e6a70673f35" alt="wuud">
 	</a>
 	<a href="https://wuud.net">
-		<img width="180" height="180" src="https://camo.envatousercontent.com/95a6582f08214bcc9a22b63ef0ddb804f4e797a7/68747470733a2f2f6e79637265617469732e636f6d2f636f6e7461637468756e7465722f646174612f696d672f7469636b6572732e6a7067" alt="wuud">
+		<img width="200" height="200" src="https://camo.envatousercontent.com/95a6582f08214bcc9a22b63ef0ddb804f4e797a7/68747470733a2f2f6e79637265617469732e636f6d2f636f6e7461637468756e7465722f646174612f696d672f7469636b6572732e6a7067" alt="wuud">
 	</a>
 	<a href="https://wuud.net">
-		<img width="240" height="180" src="https://camo.envatousercontent.com/bad2271c58767bffdea4bfebcfab959b227160e7/68747470733a2f2f6e79637265617469732e636f6d2f636f6e7461637468756e7465722f646174612f696d672f636f762d696c6c2e6a70673f32" alt="wuud">
+		<img width="320" height="200" src="https://camo.envatousercontent.com/bad2271c58767bffdea4bfebcfab959b227160e7/68747470733a2f2f6e79637265617469732e636f6d2f636f6e7461637468756e7465722f646174612f696d672f636f762d696c6c2e6a70673f32" alt="wuud">
 	</a>
 </p>
 
